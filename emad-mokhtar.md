@@ -2,5 +2,5 @@
 
 **Name** Emad Mokhtar Habib
 **Nationality** Egypt.
-**Favorite Fodd** I love italian food.
+**Favorite Food** I love italian food.
 **Hobby** reading
